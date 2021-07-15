@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product/neck021", {data:[{}],fetch:{},mutations:void 0});
